@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522998814 source:/home/paulo/FigurasSimples/marco.c
+
+1522998522 source:/home/paulo/FigurasSimples/main.c
+	<stdio.h>
+	<stdlib.h>
+	"figuras.h"
+
+1522998876 source:/home/paulo/FigurasSimples/rombo.c
+
+1522998814 source:/home/paulo/FigurasSimples/cuadro.c
+
+1522998814 source:/home/paulo/FigurasSimples/triangulo.c
+
+1522998211 /home/paulo/FigurasSimples/figuras.h
+
