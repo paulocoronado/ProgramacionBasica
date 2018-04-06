@@ -17,37 +17,57 @@ Si el usuario ingresa el número 5 debe salir en pantalla:
 
 --------- CUADRO --------
 
-*****
-*****
-*****
-*****
-*****
+&ast;&ast;&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
 
 --------- TRIANGULO --------
 
-*
-**
-***
-****
-*****
+&ast;
+
+&ast;&ast;
+
+&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
 
 --------- MARCO --------
 
-*****
-*   *
-*   *
-*   *
-*****
+&ast;&ast;&ast;&ast;&ast;
+
+&ast;&#160;&#160;&#160;&ast;
+
+&ast;&#160;&#160;&#160;&ast;
+
+&ast;&#160;&#160;&#160;&ast;
+
+&ast;&ast;&ast;&ast;&ast;
 
 --------- ROMBO --------
 
-    *
-   ***
-  *****
- *******
-*********
- *******
-  *****
-   ***
-    *
+&#160;&#160;&#160;&#160;&ast;
+   
+&#160;&#160;&#160;&ast;&ast;&ast;
+   
+&#160;&#160;&ast;&ast;&ast;&ast;&ast;
+  
+&#160;&ast;&ast;&ast;&ast;&ast;&ast;
+ 
+&ast;&ast;&ast;&ast;&ast;&ast;&ast;&ast;
+
+&#160;&ast;&ast;&ast;&ast;&ast;&ast;&ast;
+ 
+&#160;&#160;&ast;&ast;&ast;&ast;&ast;
+  
+&#160;&#160;&#160;&ast;&ast;&ast;
+   
+&#160;&#160;&#160;&#160;&ast;
 
