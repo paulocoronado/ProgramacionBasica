@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1506727652 source:/home/dianita/Programas/Lenguaje C/Buscaminas/main.c
+	<stdio.h>
+	<stdlib.h>
+	"llenarMatriz.h"
+	"imprimirMatriz.h"
+	"colocarBombas.h"
+	"colocarTotales.h"
+
+1506725083 /home/dianita/Programas/Lenguaje C/Buscaminas/llenarMatriz.c
+
+1506721829 /home/dianita/Programas/Lenguaje C/Buscaminas/imprimirMatriz.c
+
+1506722169 /home/dianita/Programas/Lenguaje C/Buscaminas/colocarBombas.c
+
+1506726541 source:/home/dianita/Programas/Lenguaje C/Buscaminas/colocarTotales.c
+	"sumarBombas.h"
+
+1506724294 /home/dianita/Programas/Lenguaje C/Buscaminas/sumarBombas.c
+
+1506725210 /home/dianita/Programas/Lenguaje C/Buscaminas/colocarTotales.c
+
+1506724294 source:/home/dianita/Programas/Lenguaje C/Buscaminas/sumarBombas.c
+
+1506725992 /home/dianita/Programas/Lenguaje C/Buscaminas/colocarTotales.h
+
+1506727970 /home/dianita/Programas/Lenguaje C/Buscaminas/llenarMatriz.h
+
+1506726119 /home/dianita/Programas/Lenguaje C/Buscaminas/imprimirMatriz.h
+
+1506727248 /home/dianita/Programas/Lenguaje C/Buscaminas/colocarBombas.h
+
+1506726288 /home/dianita/Programas/Lenguaje C/Buscaminas/sumarBombas.h
+
+1506725083 source:/home/dianita/Programas/Lenguaje C/Buscaminas/llenarMatriz.c
+
+1506727248 source:/home/dianita/Programas/Lenguaje C/Buscaminas/colocarBombas.h
+
+1506725992 source:/home/dianita/Programas/Lenguaje C/Buscaminas/colocarTotales.h
+
+1506727277 source:/home/dianita/Programas/Lenguaje C/Buscaminas/imprimirMatriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1506726119 source:/home/dianita/Programas/Lenguaje C/Buscaminas/imprimirMatriz.h
+
+1506727970 source:/home/dianita/Programas/Lenguaje C/Buscaminas/llenarMatriz.h
+
+1506726288 source:/home/dianita/Programas/Lenguaje C/Buscaminas/sumarBombas.h
+
+1506727606 source:/home/dianita/Programas/Lenguaje C/Buscaminas/colocarBombas.c
+
+1506751725 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/colocarBombas.c
+
+1506747090 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/colocarTotales.c
+	"sumarBombas.h"
+
+1506745712 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/sumarBombas.h
+
+1506753522 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/imprimirMatriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1506745712 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/llenarMatriz.c
+
+1506752452 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/main.c
+	<stdio.h>
+	<stdlib.h>
+	"imprimirMatriz.h"
+	"llenarMatriz.h"
+	"colocarBombas.h"
+	"colocarTotales.h"
+	"juego.h"
+
+1506746536 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/llenarMatriz.h
+
+1506745712 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/imprimirMatriz.h
+
+1506745712 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/colocarBombas.h
+
+1506745712 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/colocarTotales.h
+
+1506752355 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/sumarBombas.c
+	"validarCasilla.h"
+
+1506745712 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/llenarMatriz.h
+
+1506747754 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/juego.h
+
+1506750905 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/realizarJugada.c
+
+1506753540 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/juego.c
+	<stdio.h>
+	"realizarJugada.h"
+	"imprimirTablero.h"
+
+1506748765 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/realizarJugada.h
+
+1506750313 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/validarCasilla.c
+
+1506751986 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/revisarBombas.c
+
+1506750243 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/validarCasilla.h
+
+1506753623 source:/home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/imprimirTablero.c
+
+1506753060 /home/paulo_cesar/Proyectos/LenguajeC/BuscaminasC/imprimirTablero.h
+
