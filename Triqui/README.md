@@ -1,5 +1,5 @@
 #Triqui
-Tres en raya o TIC-TACT -TOE en lenguaje C - - Programa de nivel básico para la práctica de arreglos bi-dimensionales y paradigma funcional.
+Tres en raya o TIC-TAC-TOE en lenguaje C - Programa de nivel básico para la práctica de arreglos bi-dimensionales y paradigma funcional.
 
 ## Ejercicio
 
