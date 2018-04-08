@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523160606 source:/home/paulo/Projects/ProgramacionBasica/Triqui/ImprimirTablero.c
+	"constantes.h"
+
+1523160914 source:/home/paulo/Projects/ProgramacionBasica/Triqui/main.c
+	<stdio.h>
+	<stdlib.h>
+	"constantes.h"
+	"funciones.h"
+
+1523155291 source:/home/paulo/Projects/ProgramacionBasica/Triqui/LlenarTablero.c
+
+1523156676 /home/paulo/Projects/ProgramacionBasica/Triqui/constantes.h
+
+1523159079 /home/paulo/Projects/ProgramacionBasica/Triqui/funciones.h
+
+1523157727 source:/home/paulo/Projects/ProgramacionBasica/Triqui/limpiarTablero.c
+	"constantes.h"
+
+1523161253 source:/home/paulo/Projects/ProgramacionBasica/Triqui/revisarTriqui.c
+	"constantes.h"
+
+1523159331 source:/home/paulo/Projects/ProgramacionBasica/Triqui/realizarJugada.c
+	"constantes.h"
+
