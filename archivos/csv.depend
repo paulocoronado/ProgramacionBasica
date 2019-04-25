@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556177991 source:/home/paulo/Proyectos/Básica/csv/main.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
