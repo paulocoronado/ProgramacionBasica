@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558717602 source:/home/paulo/Proyectos/Básica/rectas/main.c
+	<stdio.h>
+	<stdlib.h>
+
